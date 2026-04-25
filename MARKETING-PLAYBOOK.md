@@ -1,7 +1,8 @@
 # Jevons Properties — Rental Listings Marketing Playbook
 
 **Goal:** Fill vacancies faster by driving high-intent prospective tenants to our listings.
-**Landing page:** https://rentals.jevonsproperties.com (or https://ejevons.github.io/jevons-rentals/)
+**Primary site:** https://www.jevonsproperties.com (main website — all marketing channels point here)
+**Supporting site:** https://rentals.jevonsproperties.com (mobile-first rental microsite — supplementary SEO and traffic)
 
 ---
 
@@ -25,7 +26,7 @@ GitHub will auto-provision SSL. Allow 10-30 minutes for propagation.
 
 1. **Log in** to https://business.google.com (Jevons Property Management)
 
-2. **Update website URL** for the primary listing to: `https://rentals.jevonsproperties.com`
+2. **Update website URL** for the primary listing to: `https://www.jevonsproperties.com`
 
 3. **Update business description** to be rental-focused:
    > Homes and apartments for rent in Yakima, Tacoma, Seattle, Federal Way, Lakewood, Puyallup, Kent, Moses Lake, and across Washington State. Browse pet-friendly apartments, affordable houses for rent, townhomes, and duplexes. Apply online in minutes. We accept Housing Choice Vouchers (Section 8) and all lawful sources of income. 24/7 emergency maintenance included with every rental. Over 771 professionally managed rental units across Yakima, Pierce, King, and Grant counties.
@@ -102,7 +103,7 @@ Each profile should list its local service area and link to the rentals site.
 - Budget: $10-15/day
 - Location targeting: Yakima County + 20 mile radius
 - Expected CPC: $1.50-3.00
-- Landing page: https://rentals.jevonsproperties.com/#listings
+- Landing page: https://www.jevonsproperties.com (primary); https://rentals.jevonsproperties.com/#listings (supplementary microsite)
 
 **Campaign 3: Pierce County Rentals** (Tacoma/Lakewood/Puyallup)
 - Keywords:
@@ -204,7 +205,7 @@ Join and post in local housing/rental groups:
 ### Instagram (Optional)
 - Post property photos with local hashtags
 - Reels showing unit walkthroughs get high engagement
-- Link in bio → rentals.jevonsproperties.com
+- Link in bio → www.jevonsproperties.com
 
 ---
 
@@ -258,10 +259,11 @@ Add this to the site's `<head>` to track visitor behavior:
 
 ### Google Search Console
 1. Go to https://search.google.com/search-console
-2. Add property: `rentals.jevonsproperties.com`
-3. Verify via DNS TXT record
-4. Submit sitemap (we should create a simple sitemap.xml)
-5. Monitor search queries, click-through rates, and indexing status
+2. Add property: `www.jevonsproperties.com` (primary — if not already verified)
+3. Also add: `rentals.jevonsproperties.com` (supplementary microsite)
+4. Verify via DNS TXT record
+5. Submit sitemaps for both properties
+6. Monitor search queries, click-through rates, and indexing status
 
 ### Bing Places for Business
 - Claim/update at https://www.bingplaces.com
@@ -279,8 +281,8 @@ Add this to the site's `<head>` to track visitor behavior:
 
 | Priority | Action | Cost | Time |
 |----------|--------|------|------|
-| 1 | Add DNS CNAME record for `rentals.jevonsproperties.com` | Free | 5 min |
-| 2 | Update Google Business Profile with rental-focused description + link | Free | 20 min |
+| 1 | ~~Add DNS CNAME record for `rentals.jevonsproperties.com`~~ ✅ Complete | Free | Done |
+| 2 | Update Google Business Profile with rental-focused description + link to `www.jevonsproperties.com` | Free | 20 min |
 | 3 | Verify AppFolio syndication is pushing to Zillow, Apartments.com | Free | 10 min |
 | 4 | Post current vacancies to Facebook Marketplace | Free | 30 min |
 | 5 | Post current vacancies to Craigslist (each city) | Free | 30 min |

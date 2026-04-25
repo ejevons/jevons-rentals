@@ -31,7 +31,7 @@ INCLUDED WITH EVERY RENTAL:
 • Online maintenance request system
 • Digital lease signing
 
-APPLY ONLINE: https://rentals.jevonsproperties.com
+APPLY ONLINE: https://www.jevonsproperties.com
 
 📍 [FULL ADDRESS]
 
@@ -72,7 +72,7 @@ RENTAL DETAILS:
 
 HOW TO APPLY:
 View full details and apply online at:
-https://rentals.jevonsproperties.com
+https://www.jevonsproperties.com
 
 Or call (509) 972-8100 to schedule a showing.
 
@@ -90,7 +90,7 @@ Equal Housing Opportunity.
 ✅ [Top 3 features: "Updated kitchen • In-unit W/D • Pet friendly"]
 🗓️ Available [DATE]
 
-👉 View photos & apply: https://rentals.jevonsproperties.com
+👉 View photos & apply: https://www.jevonsproperties.com
 
 #ForRent #[City]Rentals #WashingtonRentals #[City]WA #ApartmentsForRent #PetFriendly #Section8Welcome #MoveinReady #AffordableHousing #RentalHomes
 
@@ -105,7 +105,7 @@ Quick highlights:
 • Pet friendly / Vouchers accepted [if applicable]
 • Available [DATE]
 
-Full details and online application: https://rentals.jevonsproperties.com
+Full details and online application: https://www.jevonsproperties.com
 
 Feel free to DM with questions or to schedule a showing! 🏡
 
@@ -121,7 +121,7 @@ Feel free to DM with questions or to schedule a showing! 🏡
 ✅ Apply online in minutes
 ✅ 24/7 maintenance included
 
-Browse all available rentals → https://rentals.jevonsproperties.com
+Browse all available rentals → https://www.jevonsproperties.com
 
 ---
 
@@ -131,7 +131,7 @@ Browse all available rentals → https://rentals.jevonsproperties.com
 
 We have a [BEDS]-bedroom [type] available at [ADDRESS/NEIGHBORHOOD] for $[RENT]/month. [1 sentence about the best feature.]
 
-See all our available rentals and apply online: https://rentals.jevonsproperties.com
+See all our available rentals and apply online: https://www.jevonsproperties.com
 
 Questions? Call us at (509) 972-8100 or message here.
 
